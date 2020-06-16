@@ -10,7 +10,9 @@ h1 {
 
 
 /*TODO: Create a new style rule by the class attribute and style the header section(s) of your website. */
-.HeaderBasics {}
+.HeaderBasics {
+  color: #ff6699;
+}
 
 
 
