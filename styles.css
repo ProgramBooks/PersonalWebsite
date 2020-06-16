@@ -31,5 +31,11 @@ h1 {
 }
 
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
+#navBar {
+  font-family: monospace;
+}
 
+.links {
+  color:#ffff00;
+}
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/
