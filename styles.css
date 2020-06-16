@@ -1,6 +1,6 @@
 /*TODO: Add a background color or image to your website*/
 body {
-  background-color: #967bb6;
+  background-color: White;
 }
 
 h1 {
@@ -36,6 +36,6 @@ h1 {
 }
 
 .links {
-  color:#ffff00;
+  color: #ffff00;
 }
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/
