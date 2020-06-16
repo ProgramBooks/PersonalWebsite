@@ -37,7 +37,7 @@ h1 {
 }
 
 li a {
-  color:blue;
+  color:#ff6699;
 }
 .container {
   display: flex;
@@ -45,3 +45,11 @@ li a {
   flex-wrap: wrap;
 }
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/
+
+ul {
+  background-color: black;
+}
+
+p {
+  font-size: 1.3em;
+}
